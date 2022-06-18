@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="684.073" height="697" viewBox="0 0 684.073 697">
+  <defs>
+    <filter id="Elipse_336" x="17.073" y="538" width="667" height="159" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.671"/>
+      <feComposite operator="in" in2="blur"/>
+    </filter>
+    <filter id="Elipse_337" x="85.073" y="481" width="524" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.671"/>
+      <feComposite operator="in" in2="blur-2"/>
+    </filter>
+    <filter id="Elipse_334" x="213.073" y="444" width="275" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.878"/>
+      <feComposite operator="in" in2="blur-3"/>
+    </filter>
+    <filter id="Elipse_335" x="197.073" y="450" width="145" height="62" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.659"/>
+      <feComposite operator="in" in2="blur-4"/>
+    </filter>
+  </defs>
+  <g id="Img_Section_2" data-name="Img Section 2" transform="translate(-313.927 -1054)">
+    <g id="Grupo_21037" data-name="Grupo 21037">
+      <g transform="matrix(1, 0, 0, 1, 313.93, 1054)" filter="url(#Elipse_336)">
+        <ellipse id="Elipse_336-2" data-name="Elipse 336" cx="279.5" cy="25.5" rx="279.5" ry="25.5" transform="translate(71.07 589)" fill="#fff" opacity="0.56"/>
+      </g>
+      <g id="Grupo_20992" data-name="Grupo 20992" transform="translate(-89.468 7)">
+        <g id="Grupo_20990" data-name="Grupo 20990" transform="translate(506.468 1583)">
+          <ellipse id="Elipse_332" data-name="Elipse 332" cx="240.5" cy="26" rx="240.5" ry="26" transform="translate(0 32)" fill="#003566"/>
+          <rect id="Retângulo_363" data-name="Retângulo 363" width="481" height="59" fill="#003566"/>
+        </g>
+        <ellipse id="Elipse_333" data-name="Elipse 333" cx="240.5" cy="25.5" rx="240.5" ry="25.5" transform="translate(506.468 1558)" fill="#286cab"/>
+      </g>
+      <g id="Grupo_20991" data-name="Grupo 20991" transform="translate(-59 -47)">
+        <g transform="matrix(1, 0, 0, 1, 372.93, 1101)" filter="url(#Elipse_337)">
+          <ellipse id="Elipse_337-2" data-name="Elipse 337" cx="220" cy="13" rx="220" ry="13" transform="translate(127.07 520)" fill="#fff" opacity="0.56"/>
+        </g>
+        <g id="Grupo_20990-2" data-name="Grupo 20990" transform="translate(506 1579)">
+          <ellipse id="Elipse_332-2" data-name="Elipse 332" cx="213" cy="21.5" rx="213" ry="21.5" transform="translate(0 25)" fill="#003566"/>
+          <rect id="Retângulo_363-2" data-name="Retângulo 363" width="426" height="47" fill="#003566"/>
+        </g>
+        <ellipse id="Elipse_333-2" data-name="Elipse 333" cx="213" cy="21.5" rx="213" ry="21.5" transform="translate(506 1558)" fill="#286cab"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 313.93, 1054)" filter="url(#Elipse_334)">
+        <ellipse id="Elipse_334-2" data-name="Elipse 334" cx="113.5" cy="13" rx="113.5" ry="13" transform="translate(237.07 465)" fill="#fff" opacity="0.5"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 313.93, 1054)" filter="url(#Elipse_335)">
+        <ellipse id="Elipse_335-2" data-name="Elipse 335" cx="54.5" cy="13" rx="54.5" ry="13" transform="translate(215.07 465)" fill="#fff" opacity="0.41"/>
+      </g>
+    </g>
+    <g id="Grupo_21038" data-name="Grupo 21038">
+      <g id="Polígono_22" data-name="Polígono 22" transform="translate(313.927 1480.596) rotate(-25)" fill="none">
+        <path d="M22.537,5.994a4,4,0,0,1,6.927,0L48.533,39a4,4,0,0,1-3.463,6H6.931a4,4,0,0,1-3.463-6Z" stroke="none"/>
+        <path d="M 26 6.995563507080078 C 25.78446006774902 6.995563507080078 25.38534927368164 7.060482025146484 25.13414001464844 7.495281219482422 L 6.064899444580078 40.49973297119141 C 5.813549041748047 40.93476104736328 5.956859588623047 41.31307220458984 6.064670562744141 41.49986267089844 C 6.172470092773438 41.68665313720703 6.428340911865234 42.00000381469727 6.930770874023438 42.00000381469727 L 45.06922912597656 42.00000381469727 C 45.57165908813477 42.00000381469727 45.82752990722656 41.68665313720703 45.93532943725586 41.49986267089844 C 46.04314041137695 41.31307220458984 46.18645095825195 40.93476104736328 45.93508911132812 40.49972152709961 L 26.86586952209473 7.495292663574219 C 26.61465072631836 7.060482025146484 26.21553993225098 6.995563507080078 26 6.995563507080078 M 25.99999618530273 3.995559692382812 C 27.34675407409668 3.995559692382812 28.69351577758789 4.661857604980469 29.46346092224121 5.994453430175781 L 48.53269195556641 38.99889373779297 C 50.07342910766602 41.66555404663086 48.14899826049805 45.00000381469727 45.06922912597656 45.00000381469727 L 6.930770874023438 45.00000381469727 C 3.851001739501953 45.00000381469727 1.926570892333984 41.66555404663086 3.467311859130859 38.99889373779297 L 22.53653907775879 5.994453430175781 C 23.30648040771484 4.661857604980469 24.65323829650879 3.995559692382812 25.99999618530273 3.995559692382812 Z" stroke="none" fill="#fff"/>
+      </g>
+      <g id="Grupo_20994" data-name="Grupo 20994" transform="translate(519 1016.498)">
+        <path id="Caminho_7548" data-name="Caminho 7548" d="M3326,6195.351s10.629,8.652,21.139,8.652,20.9-8.652,20.9-8.652,10.679-11.351,21.2-11.351,20.871,11.351,20.871,11.351,10.8,8.652,21.348,8.652,20.83-8.652,20.83-8.652" transform="translate(-2999 -5985)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+        <path id="Caminho_7549" data-name="Caminho 7549" d="M3326,6195.351s10.629,8.652,21.139,8.652,20.9-8.652,20.9-8.652,10.679-11.351,21.2-11.351,20.871,11.351,20.871,11.351,10.8,8.652,21.348,8.652,20.83-8.652,20.83-8.652" transform="translate(-2999 -5971.999)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+      </g>
+      <g id="Retângulo_364" data-name="Retângulo 364" transform="translate(876.444 1058.144) rotate(16)" fill="none" stroke="#fff" stroke-width="3">
+        <rect width="41" height="41" rx="5" stroke="none"/>
+        <rect x="1.5" y="1.5" width="38" height="38" rx="3.5" fill="none"/>
+      </g>
+      <path id="Icon_awesome-whatsapp" data-name="Icon awesome-whatsapp" d="M90.42,17.7A52.717,52.717,0,0,0,7.478,81.3L0,108.6l27.94-7.335a52.539,52.539,0,0,0,25.187,6.409h.024c29.032,0,53.2-23.644,53.2-52.7,0-14.077-5.982-27.3-15.929-37.27ZM53.151,98.795a43.724,43.724,0,0,1-22.314-6.1l-1.59-.95L12.676,96.088l4.415-16.166-1.044-1.662A43.806,43.806,0,0,1,84.129,23.994C92.39,32.279,97.47,43.27,97.447,54.973,97.447,79.139,77.293,98.795,53.151,98.795ZM77.174,65.988c-1.306-.665-7.786-3.846-9-4.273-1.211-.451-2.089-.665-2.967.665s-3.395,4.273-4.178,5.175c-.76.878-1.543,1-2.849.332-7.739-3.869-12.819-6.908-17.923-15.667-1.353-2.326,1.353-2.16,3.869-7.193a2.44,2.44,0,0,0-.119-2.3c-.332-.665-2.967-7.145-4.059-9.78-1.068-2.564-2.16-2.208-2.967-2.255-.76-.047-1.638-.047-2.516-.047a4.878,4.878,0,0,0-3.513,1.638A14.8,14.8,0,0,0,26.35,43.27c0,6.481,4.724,12.748,5.365,13.626.665.878,9.282,14.172,22.5,19.893,8.356,3.608,11.632,3.917,15.81,3.3,2.54-.38,7.786-3.181,8.878-6.267s1.092-5.721.76-6.267C79.358,66.961,78.48,66.629,77.174,65.988Z" transform="translate(338.927 1117.576)" fill="#fff"/>
+    </g>
+    <g id="Grupo_21036" data-name="Grupo 21036" transform="translate(-1076 -2696.978)">
+      <rect id="Retângulo_368" data-name="Retângulo 368" width="246" height="478" rx="38" transform="translate(1613 3750.977)"/>
+      <g id="Grupo_21034" data-name="Grupo 21034" transform="translate(1622.619 3799.628)">
+        <path id="Caminho_7613" data-name="Caminho 7613" d="M-9873.043-6657.441v345.453h221.133v-345.453Z" transform="translate(9873.043 6692.095)" fill="#e0e0e0"/>
+        <g id="Grupo_21032" data-name="Grupo 21032" transform="translate(0)">
+          <g id="Grupo_21031" data-name="Grupo 21031" transform="translate(4.948 349.994)">
+            <g id="Grupo_21027" data-name="Grupo 21027" transform="translate(185.162)">
+              <circle id="Elipse_342" data-name="Elipse 342" cx="12.611" cy="12.611" r="12.611" fill="#00887a"/>
+              <path id="Icon_awesome-microphone" data-name="Icon awesome-microphone" d="M4.7,9.392A2.561,2.561,0,0,0,7.258,6.831V2.562a2.562,2.562,0,1,0-5.123,0V6.831A2.561,2.561,0,0,0,4.7,9.392ZM8.965,5.123H8.538a.427.427,0,0,0-.427.427V6.831a3.419,3.419,0,0,1-3.757,3.4A3.519,3.519,0,0,1,1.281,6.679V5.55a.427.427,0,0,0-.427-.427H.427A.427.427,0,0,0,0,5.55V6.622a4.843,4.843,0,0,0,4.056,4.848v.911H2.562a.427.427,0,0,0-.427.427v.427a.427.427,0,0,0,.427.427H6.831a.427.427,0,0,0,.427-.427v-.427a.427.427,0,0,0-.427-.427H5.336v-.9A4.7,4.7,0,0,0,9.392,6.831V5.55A.427.427,0,0,0,8.965,5.123Z" transform="translate(7.915 5.78)" fill="#fff"/>
+            </g>
+            <g id="Grupo_21030" data-name="Grupo 21030">
+              <rect id="Retângulo_367" data-name="Retângulo 367" width="182.087" height="25.221" rx="12.611" fill="#fff"/>
+              <g id="Grupo_21029" data-name="Grupo 21029" transform="translate(6.767 5.181)">
+                <g id="Grupo_21028" data-name="Grupo 21028">
+                  <text id="Digite_sua_mensagem" data-name="Digite sua mensagem" transform="translate(20.915 8.431)" fill="#d8d8d8" font-size="5" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" letter-spacing="-0.06em"><tspan x="0" y="0">Digite sua mensagem</tspan></text>
+                  <path id="Icon_material-tag-faces" data-name="Icon material-tag-faces" d="M10.422,3a7.43,7.43,0,1,0,7.437,7.43A7.426,7.426,0,0,0,10.422,3Zm.007,13.374a5.944,5.944,0,1,1,5.944-5.944A5.942,5.942,0,0,1,10.43,16.374Zm2.6-6.687a1.114,1.114,0,1,0-1.114-1.114A1.113,1.113,0,0,0,13.03,9.687Zm-5.2,0A1.114,1.114,0,1,0,6.715,8.572,1.113,1.113,0,0,0,7.829,9.687Zm2.6,4.829a4.084,4.084,0,0,0,3.8-2.6H6.633A4.084,4.084,0,0,0,10.43,14.516Z" transform="translate(-3 -3)" fill="#8a8f94"/>
+                </g>
+                <g id="Grupo_21026" data-name="Grupo 21026" transform="translate(140.749 2.836)">
+                  <path id="Icon_feather-paperclip" data-name="Icon feather-paperclip" d="M12.506,6.806,8.013,11.3A2.935,2.935,0,1,1,3.862,7.148L8.355,2.655a1.957,1.957,0,0,1,2.767,2.767l-4.5,4.493A.978.978,0,0,1,5.241,8.531L9.392,4.386" transform="translate(-3.002 -1.487)" fill="none" stroke="#94999e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                  <g id="Icon_ionic-ios-camera" data-name="Icon ionic-ios-camera" transform="translate(15.559)">
+                    <path id="Caminho_7617" data-name="Caminho 7617" d="M17.625,17.127a1.834,1.834,0,1,1-1.834-1.834A1.834,1.834,0,0,1,17.625,17.127Z" transform="translate(-9.667 -11.928)" fill="#858b91"/>
+                    <path id="Caminho_7618" data-name="Caminho 7618" d="M15.777,9.406H14.038a.518.518,0,0,1-.383-.172c-.906-1.014-1.247-1.359-1.617-1.359H9.31c-.373,0-.74.345-1.649,1.362a.508.508,0,0,1-.38.169H7.151V9.151A.256.256,0,0,0,6.9,8.9H6.066a.256.256,0,0,0-.255.255v.255H5.572a1.034,1.034,0,0,0-1.072.979V16a1.1,1.1,0,0,0,1.069,1.062H15.777A1.022,1.022,0,0,0,16.749,16V10.386A.951.951,0,0,0,15.777,9.406ZM10.752,15.8a2.727,2.727,0,1,1,2.6-2.6A2.73,2.73,0,0,1,10.752,15.8Zm2.935-4.543a.415.415,0,1,1,.415-.415A.414.414,0,0,1,13.687,11.256Z" transform="translate(-4.5 -7.875)" fill="#858b91"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Grupo_21025" data-name="Grupo 21025" transform="translate(2.487 27.248)">
+            <path id="Caminho_7619" data-name="Caminho 7619" d="M-9866.683-6299.661l137.323.963a8.627,8.627,0,0,1,3.081.963,2.792,2.792,0,0,1,1.155,1.926v11.556s-.1,2.408-1.155,3.467a4.135,4.135,0,0,1-3.081.771h-127.693s-2.215.289-3.274-.771-.963-3.467-.963-3.467v-7.126l-5.393-5.393-2.5-2.889Z" transform="translate(9869.187 6566.637)" fill="#fff"/>
+            <path id="Caminho_7621" data-name="Caminho 7621" d="M-9868.211-6299.661l53.532.963a2.3,2.3,0,0,1,1.2.963,5.056,5.056,0,0,1,.45,1.926v11.556a14.18,14.18,0,0,1-.45,3.467c-.413,1.059-1.2.771-1.2.771h-49.778a1.035,1.035,0,0,1-1.276-.771,13,13,0,0,1-.375-3.467v-7.126l-2.1-5.393-.976-2.889Z" transform="translate(9869.187 6517.934)" fill="#fff"/>
+            <path id="Caminho_7623" data-name="Caminho 7623" d="M-9866.683-6299.66l137.323,1.573a6.419,6.419,0,0,1,3.081,1.574,5.815,5.815,0,0,1,1.155,3.147v18.885s-.1,3.935-1.155,5.665a2.946,2.946,0,0,1-3.081,1.259h-127.693a3.215,3.215,0,0,1-3.274-1.259c-1.059-1.731-.963-5.665-.963-5.665v-11.646l-5.393-8.813-2.5-4.721Z" transform="translate(9869.187 6456.748)" fill="#fff"/>
+            <path id="Caminho_7627" data-name="Caminho 7627" d="M-9867.437-6299.661l96,.963a4.782,4.782,0,0,1,2.154.963,3.271,3.271,0,0,1,.808,1.926v11.556a8.312,8.312,0,0,1-.808,3.467,2.23,2.23,0,0,1-2.154.771H-9860.7a2.444,2.444,0,0,1-2.289-.771c-.74-1.06-.673-3.467-.673-3.467v-7.126l-3.771-5.393-1.75-2.889Z" transform="translate(9869.187 6371.826)" fill="#fff"/>
+            <path id="Caminho_7629" data-name="Caminho 7629" d="M-9866.683-6299.661l137.323.963a8.627,8.627,0,0,1,3.081.963,2.792,2.792,0,0,1,1.155,1.926v11.556s-.1,2.408-1.155,3.467a4.135,4.135,0,0,1-3.081.771h-127.693s-2.215.289-3.274-.771-.963-3.467-.963-3.467v-7.126l-5.393-5.393-2.5-2.889Z" transform="translate(9869.187 6323.124)" fill="#fff"/>
+            <path id="Caminho_7620" data-name="Caminho 7620" d="M-9758.935-6299.66l-106.952.876a6.015,6.015,0,0,0-2.4.876,2.691,2.691,0,0,0-.9,1.752v10.512a6.424,6.424,0,0,0,.9,3.153,2.858,2.858,0,0,0,2.4.7h99.451a3.147,3.147,0,0,0,2.55-.7c.825-.963.751-3.153.751-3.153v-6.482l4.2-4.906,1.95-2.627Z" transform="translate(9969.903 6543.174)" fill="#e2ffc7"/>
+            <path id="Caminho_7622" data-name="Caminho 7622" d="M-9782.489-6299.66l-84.1.876a4.106,4.106,0,0,0-1.888.876,3.048,3.048,0,0,0-.707,1.752v10.512a7.818,7.818,0,0,0,.707,3.153,1.909,1.909,0,0,0,1.888.7h78.2a2.089,2.089,0,0,0,2.006-.7,7.092,7.092,0,0,0,.591-3.153v-6.482l3.3-4.906,1.534-2.627Z" transform="translate(9993.874 6494.47)" fill="#e2ffc7"/>
+            <path id="Caminho_7625" data-name="Caminho 7625" d="M-9741.1-6299.66l-124.255.876a7.765,7.765,0,0,0-2.788.876,2.548,2.548,0,0,0-1.047,1.752v10.512a5.74,5.74,0,0,0,1.047,3.153,3.725,3.725,0,0,0,2.788.7h115.54s2.007.263,2.963-.7.873-3.153.873-3.153v-6.482l4.879-4.906,2.266-2.627Z" transform="translate(9951.75 6420.526)" fill="#e2ffc7"/>
+            <path id="Caminho_7630" data-name="Caminho 7630" d="M-9782.489-6299.66l-84.1.876a4.106,4.106,0,0,0-1.888.876,3.048,3.048,0,0,0-.707,1.752v10.512a7.818,7.818,0,0,0,.707,3.153,1.909,1.909,0,0,0,1.888.7h78.2a2.089,2.089,0,0,0,2.006-.7,7.092,7.092,0,0,0,.591-3.153v-6.482l3.3-4.906,1.534-2.627Z" transform="translate(9993.874 6299.66)" fill="#e2ffc7"/>
+            <path id="Caminho_7628" data-name="Caminho 7628" d="M-9749.205-6299.66l-116.39.876a6.935,6.935,0,0,0-2.611.876,2.6,2.6,0,0,0-.979,1.752v10.512a6.012,6.012,0,0,0,.979,3.153,3.313,3.313,0,0,0,2.611.7h108.228s1.879.263,2.775-.7.816-3.153.816-3.153v-6.482l4.57-4.906,2.123-2.627Z" transform="translate(9960.001 6348.363)" fill="#e2ffc7"/>
+            <path id="Caminho_7626" data-name="Caminho 7626" d="M-9782.489-6299.66l-84.1.876a4.106,4.106,0,0,0-1.888.876,3.048,3.048,0,0,0-.707,1.752v10.512a7.818,7.818,0,0,0,.707,3.153,1.909,1.909,0,0,0,1.888.7h78.2a2.089,2.089,0,0,0,2.006-.7,7.092,7.092,0,0,0,.591-3.153v-6.482l3.3-4.906,1.534-2.627Z" transform="translate(9993.874 6397.065)" fill="#e2ffc7"/>
+          </g>
+          <g id="Grupo_21024" data-name="Grupo 21024">
+            <path id="Caminho_7614" data-name="Caminho 7614" d="M-9873.044-6657.441v34.654h221.133v-34.654Z" transform="translate(9873.044 6657.441)" fill="#075e55"/>
+            <g id="Grupo_21023" data-name="Grupo 21023" transform="translate(2.487 5.506)">
+              <g id="Grupo_21020" data-name="Grupo 21020" transform="translate(164.572 6.172)">
+                <g id="Icon_ionic-ios-videocam" data-name="Icon ionic-ios-videocam" transform="translate(0 1.7)">
+                  <path id="Caminho_7615" data-name="Caminho 7615" d="M27.745,10.8a.527.527,0,0,0-.287.083l-2.669,1.685a.264.264,0,0,0-.123.222v2.345a.264.264,0,0,0,.123.222l2.669,1.685a.555.555,0,0,0,.287.083h.642a.263.263,0,0,0,.265-.262v-5.8a.265.265,0,0,0-.265-.262Z" transform="translate(-14.829 -10.01)" fill="#fff"/>
+                  <path id="Caminho_7616" data-name="Caminho 7616" d="M9.7,16.9H3.839A1.594,1.594,0,0,1,2.25,15.313V10.586A1.591,1.591,0,0,1,3.836,9H9.7a1.591,1.591,0,0,1,1.586,1.586V15.31A1.588,1.588,0,0,1,9.7,16.9Z" transform="translate(-2.25 -9)" fill="#fff"/>
+                </g>
+                <path id="Icon_awesome-phone" data-name="Icon awesome-phone" d="M10.7.534,8.447.013a.524.524,0,0,0-.6.3L6.809,2.744a.519.519,0,0,0,.15.607L8.273,4.427A8.039,8.039,0,0,1,4.43,8.271L3.354,6.957a.52.52,0,0,0-.607-.15L.317,7.848a.527.527,0,0,0-.3.6L.534,10.7a.52.52,0,0,0,.508.4A10.064,10.064,0,0,0,11.106,1.041.52.52,0,0,0,10.7.534Z" transform="matrix(-0.017, 1, -1, -0.017, 35.128, 0.194)" fill="#fff"/>
+                <g id="Grupo_21019" data-name="Grupo 21019" transform="translate(45.197 1.21)">
+                  <circle id="Elipse_338" data-name="Elipse 338" cx="0.923" cy="0.923" r="0.923" fill="#fff"/>
+                  <circle id="Elipse_339" data-name="Elipse 339" cx="0.923" cy="0.923" r="0.923" transform="translate(0 3.691)" fill="#fff"/>
+                  <circle id="Elipse_340" data-name="Elipse 340" cx="0.923" cy="0.923" r="0.923" transform="translate(0 7.382)" fill="#fff"/>
+                </g>
+              </g>
+              <g id="Grupo_21022" data-name="Grupo 21022">
+                <path id="Icon_awesome-arrow-left" data-name="Icon awesome-arrow-left" d="M6.655,13.181l-.574.574a.618.618,0,0,1-.876,0L.179,8.732a.618.618,0,0,1,0-.876L5.2,2.83a.618.618,0,0,1,.876,0l.574.574a.621.621,0,0,1-.01.887L3.529,7.258h7.43a.619.619,0,0,1,.62.62v.827a.619.619,0,0,1-.62.62H3.529l3.115,2.968A.617.617,0,0,1,6.655,13.181Z" transform="translate(0.003 2.781)" fill="#fff"/>
+                <g id="Grupo_21021" data-name="Grupo 21021" transform="translate(15.379)">
+                  <text id="Rifas_do_Cuteleiro" data-name="Rifas do Cuteleiro" transform="translate(33.219 15.152)" fill="#fff" font-size="9" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" letter-spacing="-0.06em"><tspan x="0" y="0">Rifas do Cuteleiro</tspan></text>
+                  <g id="Grupo_21018" data-name="Grupo 21018">
+                    <circle id="Elipse_341" data-name="Elipse 341" cx="11.688" cy="11.688" r="11.688" fill="#e2e7ea"/>
+                    <path id="Icon_awesome-user-alt" data-name="Icon awesome-user-alt" d="M6.587,7.411A3.705,3.705,0,1,0,2.882,3.705,3.706,3.706,0,0,0,6.587,7.411Zm3.294.823H8.463a4.479,4.479,0,0,1-3.752,0H3.294A3.293,3.293,0,0,0,0,11.528v.412a1.235,1.235,0,0,0,1.235,1.235h10.7a1.235,1.235,0,0,0,1.235-1.235v-.412A3.293,3.293,0,0,0,9.881,8.234Z" transform="translate(2.529 4.356)" fill="#fefefe"/>
+                    <path id="Icon_awesome-user-alt-2" data-name="Icon awesome-user-alt" d="M5.381,6.054A3.027,3.027,0,1,0,2.354,3.027,3.028,3.028,0,0,0,5.381,6.054Zm2.691.673H6.914a3.659,3.659,0,0,1-3.065,0H2.691A2.691,2.691,0,0,0,0,9.418v.336a1.009,1.009,0,0,0,1.009,1.009H9.754a1.009,1.009,0,0,0,1.009-1.009V9.418A2.691,2.691,0,0,0,8.072,6.727Z" transform="translate(10.323 6.397)" fill="#fefefe"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Elipse_343" data-name="Elipse 343" transform="translate(1788 3770.977)" fill="#282828" stroke="#212121" stroke-width="1">
+        <circle cx="5" cy="5" r="5" stroke="none"/>
+        <circle cx="5" cy="5" r="4.5" fill="none"/>
+      </g>
+      <rect id="Retângulo_370" data-name="Retângulo 370" width="40" height="4" rx="2" transform="translate(1718 3772.977)" fill="#282828"/>
+      <rect id="Retângulo_371" data-name="Retângulo 371" width="12" height="2" rx="1" transform="translate(1670 4209.978)" fill="#fff"/>
+      <rect id="Retângulo_374" data-name="Retângulo 374" width="12" height="2" rx="1" transform="translate(1670 4205.978)" fill="#fff"/>
+      <rect id="Retângulo_375" data-name="Retângulo 375" width="12" height="2" rx="1" transform="translate(1670 4201.978)" fill="#fff"/>
+      <g id="Retângulo_372" data-name="Retângulo 372" transform="translate(1728 4199.978)" fill="none" stroke="#fff" stroke-width="3">
+        <rect width="16" height="13" rx="4" stroke="none"/>
+        <rect x="1.5" y="1.5" width="13" height="10" rx="2.5" fill="none"/>
+      </g>
+      <path id="Caminho_7631" data-name="Caminho 7631" d="M-10022.152-6070.06l-4.819,4.819,4.819,4.819" transform="translate(11833.303 10270.037)" fill="none" stroke="#fff" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
