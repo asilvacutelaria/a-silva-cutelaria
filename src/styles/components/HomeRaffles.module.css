@@ -1,0 +1,43 @@
+.homeRaffles {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 50px 0 100px 0;
+}
+
+.homeRaffles div:last-child {
+    max-width: 615px;
+    color: var(--white-color);
+    letter-spacing: 0.5px;
+}
+
+.homeRaffles div:last-child > * {
+    margin: 20px 0 20px 0;
+    text-align: justify;
+    font-family: "Roboto", sans-serif;
+}
+
+.homeRaffles div:last-child h4,
+.homeRaffles div:last-child h1 {
+    font-family: "Montserrat", sans-serif;
+}
+
+.homeRaffles div:last-child h4 { 
+    margin-bottom: 40px;
+}
+
+.homeRaffles div:last-child h1 {
+    font-size: 3rem;
+}
+
+.homeRaffles div:last-child h4 {
+    font-size: 2rem;
+}
+
+.homeRaffles div:last-child a {
+    font-weight: 600;
+}
+
+.homeRaffles div:last-child a:hover {
+    color: var(--secondary-hover-color);
+}
