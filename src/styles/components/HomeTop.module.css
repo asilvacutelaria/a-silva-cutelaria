@@ -46,3 +46,35 @@
 .homeContainer div img {
     max-height: 60rem;
 }
+
+@media(max-height: 651px) {
+    .homeContainer {
+        align-items: flex-start;
+    }
+    .homeContainer div:first-child {
+        font-size: 1rem;
+        padding-top: 90px;
+    }
+
+    .homeContainer div:last-child {
+        max-width: 450px;
+    }
+}
+
+@media(max-width: 899.9px) {
+    .homeContainer {
+        justify-content: flex-start;
+    }
+    .homeContainer div:first-child {
+
+    }
+
+    .homeContainer div:first-child h1 {
+        font-size: 2rem;
+        padding-top: 20px;
+    }
+
+    .homeContainer div:last-child img {
+        display: none;
+    }
+}

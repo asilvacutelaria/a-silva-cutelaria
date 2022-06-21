@@ -41,3 +41,36 @@
 .homeRaffles div:last-child a:hover {
     color: var(--secondary-hover-color);
 }
+
+@media(max-width: 1079.9px) {
+    .homeRaffles div:last-child h1 {
+        font-size: 2rem;
+    }
+
+    .homeRaffles div:last-child h4 {
+        font-size: 1.3rem;
+    }
+
+    .homeRaffles div:last-child {
+        max-width: 400px;
+    }
+}
+
+@media(max-width: 759.9px) {
+    .homeRaffles div:first-child img {
+        display: none;
+    }
+    /* .homeRaffles::after {
+        content: "";
+        background: url(/Img_Raffles.svg) no-repeat;
+        opacity: 0.5;       
+  
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        position: absolute;
+        z-index: -1;   
+        
+    }     */
+}
