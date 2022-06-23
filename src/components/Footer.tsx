@@ -14,13 +14,13 @@ export function Footer () {
 
                 <div className={styles.footerComunications}>
                     <div>
-                        <a href="https://api.whatsapp.com/send/?phone=5562981252225"> 
+                        <a href={process.env.REACT_APP_LINK_WHATSAPP_CUTELARIA}> 
                             <FontAwesomeIcon icon={faWhatsapp} /> 
                         </a>
-                        <a href="https://www.instagram.com/a.silvacustomknves/" target="_blank" rel="noopener noreferrer"> 
+                        <a href={process.env.REACT_APP_LINK_INSTAGRAM_CUTELARIA} target="_blank" rel="noopener noreferrer"> 
                             <FontAwesomeIcon icon={faInstagram} /> 
                         </a>
-                        <a href="#" target="_blank" rel="noopener noreferrer"> 
+                        <a href={process.env.REACT_APP_LINK_TIKTOK_CUTELARIA} target="_blank" rel="noopener noreferrer"> 
                             <FontAwesomeIcon icon={faTiktok} /> 
                         </a>
                     </div>

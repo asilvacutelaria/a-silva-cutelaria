@@ -53,7 +53,7 @@ export function NavBar() {
                   <h1 className='font-zero'>Navegação do site</h1>
                   <ul>
                       <li>
-                          <a className={styles.itemNavbar} href="https://api.whatsapp.com/send/?phone=5562981252225">Encomendas</a>
+                          <a className={styles.itemNavbar} href={process.env.REACT_APP_LINK_WHATSAPP_CUTELARIA}>Encomendas</a>
                           {/* <Link 
                             activeClass={styles.active}
                             to="home"
@@ -98,8 +98,8 @@ export function NavBar() {
 
                 <div className={styles.headerButtons}>
                     <div className={styles.headerButton}>
-                        <button><a href="https://api.whatsapp.com/send/?phone=5562981252225">entrar no grupo</a></button>
-                        <button><a href="https://api.whatsapp.com/send/?phone=5562981252225">faça seu pedido</a></button>
+                        <button><a href={process.env.REACT_APP_LINK_GRUPO_RIFA_WHATSAPP}>entrar no grupo</a></button>
+                        <button><a href={process.env.REACT_APP_LINK_WHATSAPP_CUTELARIA}>faça seu pedido</a></button>
                     </div>
                 </div>
                     
@@ -107,13 +107,13 @@ export function NavBar() {
                 
 
                 <div className={styles.headerRedes}>
-                    <a href="https://api.whatsapp.com/send/?phone=5562981252225"> 
+                    <a href={process.env.REACT_APP_LINK_WHATSAPP_CUTELARIA}> 
                         <FontAwesomeIcon icon={faWhatsapp} /> 
                     </a>
-                    <a href="https://www.instagram.com/a.silvacustomknves/" target="_blank" rel="noopener noreferrer"> 
+                    <a href={process.env.REACT_APP_LINK_INSTAGRAM_CUTELARIA} target="_blank" rel="noopener noreferrer"> 
                         <FontAwesomeIcon icon={faInstagram} /> 
                     </a>
-                    <a href="#" target="_blank" rel="noopener noreferrer"> 
+                    <a href={process.env.REACT_APP_LINK_TIKTOK_CUTELARIA} target="_blank" rel="noopener noreferrer"> 
                         <FontAwesomeIcon icon={faTiktok} /> 
                     </a>
                 </div>

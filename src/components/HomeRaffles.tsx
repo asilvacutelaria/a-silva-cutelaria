@@ -20,9 +20,9 @@ export function HomeRaffles () {
                     <p> Você pode participar do grupo no WhatsApp e ficar por dentro 
                         de todas as atualizações dos eventos de rifas de peças do 
                         cuteleiro. O acesso e permanência ao grupo é gratuito, leia o 
-                        regulamento da participação das rifas <a href="https://api.whatsapp.com/send/?phone=5562981252225">aqui</a>.
+                        regulamento da participação das rifas <a href={process.env.REACT_APP_LINK_GRUPO_RIFA_WHATSAPP}>aqui</a>.
                     </p>
-                    <a href="https://api.whatsapp.com/send/?phone=5562981252225">Entre agora mesmo</a>
+                    <a href={process.env.REACT_APP_LINK_GRUPO_RIFA_WHATSAPP}>Entre agora mesmo</a>
                 </div>
             </div>
         </div>

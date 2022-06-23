@@ -25,7 +25,7 @@ export function HomeTop () {
                 <div>
                     <h1>As melhores facas<br/>artesanais do mundo!</h1>
                     <h4>Toda qualidade e atenção aos detalhes que uma faca precisa</h4>
-                    <button><a href="https://api.whatsapp.com/send/?phone=5562981252225">faça seu pedido</a></button>
+                    <button><a href={process.env.REACT_APP_LINK_WHATSAPP_CUTELARIA}>faça seu pedido</a></button>
                 </div>
 
                 <div>
