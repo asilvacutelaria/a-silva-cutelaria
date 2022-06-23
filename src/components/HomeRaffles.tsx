@@ -9,6 +9,9 @@ export function HomeRaffles () {
                 <div>
                     <img src="/Img_Raffles.svg" alt="" />
                 </div>
+                <div className={styles.phoneImg}>
+                    <img src="/Phone_md.svg" alt="" />
+                </div>
 
                 <div>
                     <h1>Rifas do cuteleiro</h1>
