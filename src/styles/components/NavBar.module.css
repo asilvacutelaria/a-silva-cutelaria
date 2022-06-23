@@ -82,61 +82,6 @@
     -webkit-transform: rotate(-45deg) translate3d(6px,-5px,0);
 }
 
-.headerSearch{
-    position: relative;
-    float: right;
-    margin: 18px 0;
-}
-/*COR DO PLACEHOLDER DO IMPUT PARA DIFERENTES NAVEGADORES
-=============================================================================================================================*/
-.headerSearch input::-webkit-input-placeholder{
-/*chrome/ opera/safari*/
-    color: #fff;    
-}
-.headerSearch input:-moz-placeholder{
-    /*mozilla firefox 4 to 18*/
-    color: #fff;
-    opacity: 1;
-}
-.headerSearch input::-moz-placeholder{
-    /*firefox 19+*/
-    color: #fff;
-    opacity: 1;
-}
-.headerSearch input:-ms-input-placeholder{
-    /*IE 10+*/
-    color: #fff;
-}
-.headerSearch input::-ms-input-placeholder{
-    /*Microsoft Edge*/
-    color: #fff;
-}
-.headerSearch input::placeholder{
-    /*Browsers modernos*/
-    color: #fff;
-}
-
-.headerSearch input{
-    width: 100%;
-    color: #fff;
-    text-transform: uppercase;
-    background: var(--primary-color);    
-    padding: 10px;
-    border-radius: 8px;
-    -webkit-border-radius: 8px;
-}
-
-.headerSearch button{
-    position: absolute;
-    top: 50%;
-    right: 8px;
-    color: #fff;
-    font-size: 1.5rem;
-    background: transparent;
-    transform: translateY(-50%);
-    -webkit-transform: translateY(-50%);
-}
-
 .headerNav ul li a:hover{
     color: var(--primary-color);
 }
@@ -233,11 +178,13 @@
 
 @media(max-width: 1094.9px) {
     #navToggle,
-    .headerRedes {
+    .headerRedes, 
+    .headerButtons {
         display: block;
     }
 
-    .headerRedes {
+    .headerRedes, 
+    .headerButtons{
         float: none;
     }
 
@@ -333,7 +280,7 @@
         padding-top: 35px;
     }
     
-    .headerNav ul li a.active:before{
+    /* .headerNav ul li a.active:before{
         background: #f47933;
         content: "";
         position: absolute;
@@ -341,7 +288,7 @@
         width: 100%;
         top: -31px;
         left: 0;
-    }
+    } */
 
     .headerButtons div,
     .headerButton button:last-child,

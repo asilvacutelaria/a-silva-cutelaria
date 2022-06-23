@@ -38,11 +38,39 @@
     padding: 10px 15px;
 }
 
-@media(max-width: 759.9px) {
+@media(max-width: 1094.9px) {
     #emptyDiv {
         display: none;
     }
-    .footer {
+}
 
+
+@media(max-width: 564.9px) {
+    .footer {
+        padding-top: 30px;
+        flex-direction: column;
     }
+
+    .footerComunications div:last-child {
+        font-size: 0.5rem;
+    }
+    .footerComunications div:last-child a {
+        font-size: 0.5rem;
+    }
+
+}
+
+@media(max-width: 759.9px) {
+    .footerComunications  {
+        justify-content: center;
+    }
+
+    .footerComunications div:last-child {
+        font-size: 0.6rem;
+    }
+
+    .footerComunications div:last-child a {
+        font-size: 0.6rem;
+    }
+
 }

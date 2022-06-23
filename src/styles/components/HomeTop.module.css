@@ -64,6 +64,7 @@
 @media(max-width: 899.9px) {
     .homeContainer {
         justify-content: flex-start;
+        margin: 170px 0 170px 0;
     }
     .homeContainer div:first-child {
 
