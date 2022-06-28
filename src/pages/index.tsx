@@ -6,6 +6,7 @@ import styles from '../styles/pages/Home.module.css'
 import { HomeTop } from '../components/HomeTop';
 import { HomeRaffles } from '../components/HomeRaffles';
 import { Footer } from '../components/Footer';
+import { About } from '../components/About';
 
 const Home: NextPage = () => {
   return (
@@ -19,6 +20,10 @@ const Home: NextPage = () => {
 
         <section>
           <HomeRaffles />
+        </section>  
+
+        <section>
+          <About />
         </section>  
         
       </div>
