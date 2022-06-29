@@ -1,0 +1,31 @@
+.aboutContainer {
+    display: flex;
+    background: var(--primary-hover-color);
+    margin: 50px 50px;
+    border-radius: 30px;
+}
+
+.aboutContainer div:first-child {
+    max-width: 615px;
+    color: var(--white-color);
+    letter-spacing: 0.5px;
+    padding: 50px;
+}
+
+.aboutContainer div:first-child h1 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 3rem;
+    margin-bottom: 35px;
+}
+
+.aboutContainer div:first-child p {
+    margin: 20px 0 20px 0;
+    text-align: justify;
+    font-family: "Roboto", sans-serif;
+
+}
+
+.aboutContainer div:last-child {
+    max-width: 500px;
+    padding: 50px 0;
+}
