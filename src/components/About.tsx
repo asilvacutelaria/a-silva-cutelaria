@@ -19,7 +19,7 @@ export function About () {
                 </div>
 
                 <div>
-                    <img src="/Img_Headline.svg" alt="" />
+                    <img src="/Img_Headline.png" alt="" />
                 </div>
             </div>
         </div>

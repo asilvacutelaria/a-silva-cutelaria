@@ -1,8 +1,10 @@
 .aboutContainer {
-    display: flex;
     background: var(--primary-hover-color);
     margin: 50px 50px;
     border-radius: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 
 .aboutContainer div:first-child {
@@ -22,10 +24,37 @@
     margin: 20px 0 20px 0;
     text-align: justify;
     font-family: "Roboto", sans-serif;
-
 }
 
 .aboutContainer div:last-child {
     max-width: 500px;
-    padding: 50px 0;
+    padding: 50px 20px;
+}
+
+@media(max-width: 949.9px) {
+    .aboutContainer div:first-child {
+        max-width: none;
+    }
+    
+    .aboutContainer div:last-child {
+        display: none;
+    }
+}
+
+@media(max-width: 1094.9px) {
+    .aboutContainer div:first-child {
+        max-width: 500px;
+    }
+    .aboutContainer div:last-child {
+        padding: 0 10px 0 0;
+    }
+}
+
+@media(max-width: 1144px){
+    .aboutContainer div:first-child h1 {
+        font-size: 2rem;
+    }
+    .aboutContainer div:first-child p {
+        font-size: 1rem;
+    }
 }
