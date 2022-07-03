@@ -1,14 +1,29 @@
 .aboutContainer {
     background: var(--primary-hover-color);
-    margin: 50px 50px;
+    margin: 100px 100px;
     border-radius: 30px;
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
 
+.aboutContainer div ul {
+    font-family: "Roboto", sans-serif;
+    list-style-type: disc;
+    padding-left: 30px;
+    line-height: 26px;
+}
+
+.aboutContainer div a {
+    font-weight: 900;
+}
+
+.aboutContainer div a:hover {
+    color: var(--secondary-hover-color);
+}
+
 .aboutContainer div:first-child {
-    max-width: 615px;
+    max-width: 700px;
     color: var(--white-color);
     letter-spacing: 0.5px;
     padding: 50px;
@@ -21,9 +36,10 @@
 }
 
 .aboutContainer div:first-child p {
-    margin: 20px 0 20px 0;
+    margin: 20px 0 10px 0;
     text-align: justify;
     font-family: "Roboto", sans-serif;
+    line-height: 26px;
 }
 
 .aboutContainer div:last-child {
@@ -57,4 +73,10 @@
     .aboutContainer div:first-child p {
         font-size: 1rem;
     }
+}
+
+@media(max-width: 1373px) {
+    .aboutContainer div:last-child {
+        display: none;
+    }   
 }

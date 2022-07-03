@@ -11,10 +11,18 @@ export function About () {
                 <div>
                     <h1>Sobre o Cuteleiro</h1>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut nisi vel erat malesuada venenatis. Nam at ligula interdum, facilisis neque non, laoreet mi. Vestibulum at ullamcorper velit. Etiam nec porttitor erat. Sed auctor nisi at mi consequat fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla semper elit quam, in varius leo tristique at. Quisque eu turpis eros. Phasellus gravida dui sit amet lorem consectetur, quis euismod erat accumsan. Phasellus in venenatis turpis. Donec vitae ex dui. Nunc eleifend ultricies tellus sed interdum. Sed tempor dui sit amet nibh iaculis tempor. Ut sollicitudin sapien vitae orci dictum, non facilisis magna sagittis. Donec eget pharetra lorem.
+                        Olá, meu nome é Alexandre Silva, brasileiro com xx anos e sou cuteleiro de paixão. Confeccionei a minha primeira faca por curiosidade, através de vídeos da internet, com materiais simples e forno improvisado, não ficou exatamente como o esperado, mas na segunda já ficou melhor. Desde então não parei com as produções, e o esforço levaram-me a estudar sobre, fiz diversos cursos como:
                     </p>
+                    <ul>
+                        <li>Produção de facas,</li>
+                        <li>Tratamento térmico dos metais,</li>
+                        <li>Facas por desbaste,</li>
+                        <li>Facas EDC Cuteleiro Hobista.</li>
+                    </ul>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut nisi vel erat malesuada venenatis. Nam at ligula interdum, facilisis neque non, laoreet mi. Vestibulum at ullamcorper velit. Etiam nec porttitor erat. Sed auctor nisi at mi consequat fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla semper elit quam, in varius leo tristique at. Quisque eu turpis eros. Phasellus gravida dui sit amet lorem consectetur, quis euismod erat accumsan. Phasellus in venenatis turpis. Donec vitae ex dui. Nunc eleifend ultricies tellus sed interdum. Sed tempor dui sit amet nibh iaculis tempor. Ut sollicitudin sapien vitae orci dictum, non facilisis magna sagittis. Donec eget pharetra lorem.
+                        Todos com grandes nomes do mercado de cuteleiros. Com o tempo desenvolvi estratégias que me fazem produzir as melhores facas artesanais do brasil, onde hoje me dedico a cutelaria desenvolvendo e forjando mais do que facas, artes através de um cutelo. 
+                        <br/>
+                        Te convido a vir conhecer o meu trabalho e adquirir a sua melhor faca para o churrasco clicando <a href=''>aqui</a>.
                     </p>
                 </div>
 
