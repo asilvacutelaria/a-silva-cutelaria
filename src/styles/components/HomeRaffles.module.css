@@ -20,6 +20,10 @@
     font-family: "Roboto", sans-serif;
 }
 
+.homeRaffles div:last-child p { 
+    line-height: 26px;
+}
+
 .homeRaffles div:last-child h4,
 .homeRaffles div:last-child h1 {
     font-family: "Montserrat", sans-serif;
