@@ -3,6 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import styles from '../styles/components/About.module.css';
 
 export function About () {
+    let age = new Date().getFullYear()-1981;
     
     return (
         
@@ -11,7 +12,7 @@ export function About () {
                 <div>
                     <h1>Sobre o Cuteleiro</h1>
                     <p>
-                        Olá, meu nome é Alexandre Silva, brasileiro com xx anos e sou cuteleiro de paixão. Confeccionei a minha primeira faca por curiosidade, através de vídeos da internet, com materiais simples e forno improvisado, não ficou exatamente como o esperado, mas na segunda já ficou melhor. Desde então não parei com as produções, e o esforço levaram-me a estudar sobre, fiz diversos cursos como:
+                        Olá, meu nome é Alexandre Silva, brasileiro com {age} anos e sou cuteleiro de paixão. Confeccionei a minha primeira faca por curiosidade, através de vídeos da internet, com materiais simples e forno improvisado, não ficou exatamente como o esperado, mas na segunda já ficou melhor. Desde então não parei com as produções, e o esforço levaram-me a estudar sobre, fiz diversos cursos como:
                     </p>
                     <ul>
                         <li>Produção de facas,</li>
