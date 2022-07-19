@@ -28,7 +28,7 @@ export function About () {
                 </div>
 
                 <div>
-                    <img src="/Img_Headline.png" alt="" />
+                    <img src="/Img_About.png" alt="" />
                 </div>
             </div>
         </div>
