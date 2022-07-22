@@ -7,7 +7,7 @@ export function About () {
     
     return (
         
-        <div className={`row`}>
+        <div id="about" className={`row`}>
             <div className={styles.aboutContainer}>
                 <div>
                     <h1>Sobre o Cuteleiro</h1>
@@ -23,7 +23,7 @@ export function About () {
                     <p>
                         Todos com grandes nomes do mercado de cuteleiros. Com o tempo desenvolvi estratégias que me fazem produzir as melhores facas artesanais do brasil, onde hoje me dedico a cutelaria desenvolvendo e forjando mais do que facas, artes através de um cutelo. 
                         <br/>
-                        Te convido a vir conhecer o meu trabalho e adquirir a sua melhor faca para o churrasco clicando <a href=''>aqui</a>.
+                        Te convido a vir conhecer o meu trabalho e adquirir a sua melhor faca para o churrasco clicando <a href={process.env.REACT_APP_LINK_WHATSAPP_CUTELARIA}>aqui</a>.
                     </p>
                 </div>
 

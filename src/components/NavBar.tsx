@@ -82,7 +82,7 @@ export function NavBar() {
                         <li>     
                             <Link 
                                 activeClass={styles.active}
-                                to="home"
+                                to="about"
                                 spy={true}
                                 smooth={true}
                                 offset={-70}
