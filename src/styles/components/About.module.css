@@ -48,8 +48,8 @@
 }
 
 @media(max-width: 529.9px) {
-    .aboutContainer div:last-child {
-        
+    .aboutContainer {
+        border-radius: 20px;
     }
 }
 

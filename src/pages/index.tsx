@@ -20,13 +20,15 @@ const Home: NextPage = () => {
 
         <section>
           <HomeRaffles />
-        </section>  
+        </section>
+      </div>
 
+      <div className={styles.container} id={styles.aboutContainerId}>
         <section>
           <About />
-        </section>  
-        
+        </section>
       </div>
+
       <Footer />      
       </NavBarProvider>
     </>
