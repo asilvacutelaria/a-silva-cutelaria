@@ -63,22 +63,28 @@
     font-size: 1.5rem;    
     display: flex;
     align-items: center;
+    border-right: 1px solid var(--secondary-color);
+    padding: 10px;
 }
 
 .contacts #instagram {
-    color: #C13584;
+    /* color: #C13584; */
+    color: #000000;
 }
 
 .contacts #tiktok {
     color: #000000;
+    border: none;
 }
 
 .contacts #whatsapp {
-    color: #128C7E;
+    /* color: #128C7E; */
+    color: #000000;
 }
 
 .contacts #instagram a {
-    color: #C13584;
+    /* color: #C13584; */
+    color: #000000;
 }
 
 .contacts #tiktok a {
@@ -86,7 +92,8 @@
 }
 
 .contacts #whatsapp a {
-    color: #128C7E;
+    /* color: #128C7E; */
+    color: #000000;
 }
 
 .contacts div a {
@@ -97,7 +104,10 @@
     transition: all 0.2s linear;
 }
 
-.contacts div a:hover {
+.contacts div a:hover,
+.contacts #whatsapp a:hover,
+.contacts #instagram a:hover,
+.contacts #tiktok a:hover {
     color: var(--secondary-color);
     text-decoration: underline;
     transition: all 0.2s linear;
