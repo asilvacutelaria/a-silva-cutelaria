@@ -1,3 +1,6 @@
+import { faWhatsapp } from '@fortawesome/free-brands-svg-icons';
+import { faAngleRight, faArrowRight, faFileLines } from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import styles from '../styles/components/HomeRaffles.module.css';
 
 export function HomeRaffles () {
@@ -18,11 +21,21 @@ export function HomeRaffles () {
                     <h4>Entre no grupo do<br/>WhatsApp e fique atento!</h4>
                     <p>Regularmente o cuteleiro realiza rifas de alguma(s) de suas peças, entre no grupo e fique por dentro!</p>
                     <p> Você pode participar do grupo no WhatsApp e ficar por dentro 
-                        de todas as atualizações dos eventos de rifas de peças do 
-                        cuteleiro. O acesso e permanência ao grupo é gratuito, leia o 
-                        regulamento da participação das rifas <a href={process.env.REACT_APP_LINK_GRUPO_RIFA_WHATSAPP}>aqui</a>.
+                        de todas as atualizações, eventos e rifas de peças do 
+                        cuteleiro. O acesso e permanência ao grupo é gratuito.
                     </p>
-                    <a href={process.env.REACT_APP_LINK_GRUPO_RIFA_WHATSAPP}>Entre agora mesmo</a>
+                    <div className={styles.linkRaffles}>
+                        <div>
+                            <FontAwesomeIcon icon={faFileLines} /> 
+                            <a href={process.env.REACT_APP_LINK_GRUPO_RIFA_WHATSAPP}>Regulamento de participação das rifas</a>
+                            <FontAwesomeIcon icon={faAngleRight} /> 
+                        </div>
+                        <div>
+                            <FontAwesomeIcon icon={faWhatsapp} /> 
+                            <a href={process.env.REACT_APP_LINK_GRUPO_RIFA_WHATSAPP}>Entre no grupo agora mesmo</a>
+                            <FontAwesomeIcon icon={faAngleRight} /> 
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

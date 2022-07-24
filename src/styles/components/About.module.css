@@ -22,7 +22,7 @@
     color: var(--secondary-hover-color);
 }
 
-.aboutContainer div:first-child {
+.aboutContainer #text {
     max-width: 700px;
     color: var(--white-color);
     letter-spacing: 0.5px;
@@ -42,9 +42,65 @@
     line-height: 26px;
 }
 
-.aboutContainer div:last-child {
+.aboutContainer #idImg {
     max-width: 500px;
     padding: 50px 20px;
+}
+
+.contacts {
+    max-width: none;    
+    margin: 10px 10px;
+    display: flex;
+    padding: 10px;
+    /* border: 1px solid var(--secondary-hover-color); */
+    /* border-radius: 5px;
+    background-color: var(--white-color); */
+}
+
+.contacts div {
+    color: var(--secondary-hover-color);
+    margin: 10px 0;
+    font-size: 1.5rem;    
+    display: flex;
+    align-items: center;
+}
+
+.contacts #instagram {
+    color: #C13584;
+}
+
+.contacts #tiktok {
+    color: #000000;
+}
+
+.contacts #whatsapp {
+    color: #128C7E;
+}
+
+.contacts #instagram a {
+    color: #C13584;
+}
+
+.contacts #tiktok a {
+    color: #000000;
+}
+
+.contacts #whatsapp a {
+    color: #128C7E;
+}
+
+.contacts div a {
+    margin: 0 10px;
+    font-weight: 400;
+    color: var(--secondary-hover-color);
+    font-family: "Roboto", sans-serif;
+    transition: all 0.2s linear;
+}
+
+.contacts div a:hover {
+    color: var(--secondary-color);
+    text-decoration: underline;
+    transition: all 0.2s linear;
 }
 
 @media(max-width: 529.9px) {
@@ -64,17 +120,20 @@
         max-width: none;
     }
     
-    .aboutContainer div:last-child {
+    .aboutContainer #idImg {
         display: none;
     }
 }
 
 @media(max-width: 1094.9px) {
-    .aboutContainer div:first-child {
+    .aboutContainer #text {
         max-width: 500px;
     }
     .aboutContainer div:last-child {
         padding: 0 10px 0 0;
+    }
+    .contacts {
+        flex-direction: column;
     }
 }
 
@@ -88,7 +147,7 @@
 }
 
 @media(max-width: 1373px) {
-    .aboutContainer div:last-child {
+    .aboutContainer #idImg {
         display: none;
     }   
 }
