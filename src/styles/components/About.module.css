@@ -67,33 +67,19 @@
     padding: 10px;
 }
 
-.contacts #instagram {
-    /* color: #C13584; */
-    color: #000000;
-}
-
-.contacts #tiktok {
-    color: #000000;
-    border: none;
-}
-
-.contacts #whatsapp {
-    /* color: #128C7E; */
-    color: #000000;
-}
-
-.contacts #instagram a {
-    /* color: #C13584; */
-    color: #000000;
-}
-
-.contacts #tiktok a {
-    color: #000000;
-}
-
+.contacts #instagram,
+.contacts #tiktok,
+.contacts #whatsapp,
+.contacts #instagram a,
+.contacts #tiktok a,
 .contacts #whatsapp a {
-    /* color: #128C7E; */
-    color: #000000;
+    color: var(--secondary-hover-color);
+    /* color: var(--title-color); */
+    font-weight: 400;
+}
+
+.contacts #tiktok {        
+    border: none;
 }
 
 .contacts div a {
@@ -144,6 +130,12 @@
     }
     .contacts {
         flex-direction: column;
+        margin-top: 20px;
+    }
+
+    .contacts div {
+        border: none;
+        padding: 0;
     }
 }
 
