@@ -32,11 +32,11 @@ export function About () {
                         </div>
                         <div id={styles.instagram}>
                             <FontAwesomeIcon icon={faInstagram}/>
-                            <a href={process.env.REACT_APP_LINK_WHATSAPP_CUTELARIA}>Me siga no Instagram</a>
+                            <a href={process.env.REACT_APP_LINK_INSTAGRAM_CUTELARIA}>Me siga no Instagram</a>
                         </div>
                         <div id={styles.tiktok}>
                             <FontAwesomeIcon icon={faTiktok}/>
-                            <a href={process.env.REACT_APP_LINK_WHATSAPP_CUTELARIA}>Me acompanhe no TikTok</a>
+                            <a href={process.env.REACT_APP_LINK_TIKTOK_CUTELARIA}>Me acompanhe no TikTok</a>
                         </div>
                     </div>
                 </div>
